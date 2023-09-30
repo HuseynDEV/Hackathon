@@ -18,7 +18,9 @@ const ViewList = () => {
           <div className="body">
             <h2>296</h2>
             <div>
-              <BsChevronUp />
+             <div className="icon">
+             <BsChevronUp />
+             </div>
               74%
             </div>
           </div>
@@ -37,7 +39,9 @@ const ViewList = () => {
           <div className="body">
             <h2>120</h2>
             <div>
-              <BsChevronUp />
+             <div className="icon">
+             <BsChevronUp />
+             </div>
               43%
             </div>
           </div>
@@ -56,7 +60,9 @@ const ViewList = () => {
           <div className="body">
             <h2>50</h2>
             <div>
-              <BsChevronUp />
+             <div className="icon">
+             <BsChevronUp />
+             </div>
               24%
             </div>
           </div>
